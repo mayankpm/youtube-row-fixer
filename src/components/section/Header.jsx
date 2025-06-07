@@ -1,6 +1,6 @@
 import { Navbar, NavbarBrand, NavbarContent, Button } from "@nextui-org/react";
 import ExtensionSetting from "./ExtensionSetting";
-import Logo from "../icon/logo";
+import Logo from "../icon/Logo";
 
 function Header() {
   return (
