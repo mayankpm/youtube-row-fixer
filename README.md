@@ -47,6 +47,7 @@ A browser extension that lets you customize the number of videos, posts, and sho
 
 - [Chrome Extension][chrome]
 - [FireFox Extension][firefox] (Coming soon!)
+- [Metadata Hider Userscript](./userscripts/youtube-hide-metadata.user.js)
 <!-- - [Userscript][script] (not recommended because I'm too lazy to update it) -->
 
 [chrome]: https://chrome.google.com/webstore/detail/youtube-row-fixer/kehjfphhkfppnnjhdfhanmehkegdppho
